@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    color:rgb(13, 75, 75);
+}
+h1{
+    font-family: 'STIX Two Math', serif;
+    font-size: 50px;
+}
+.tumi{
+    padding-left: 7%;
+    width: 50%;
+}
+.think{
+    border-image-width: 50%;
+}
+section{
+    display: flex;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.tumi img{
+    width: 100%;
+    margin-top: -120px;
+
+}
+p{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:gray;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(0, 195, 255),rgb(189, 189, 186));
+    border-radius:5px ;
+    
+}
+.background{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+}
+.download{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-image: linear-gradient(rgb(0, 195, 255),rgb(189, 189, 186));
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+.sec{
+    background-image: url(images/background2.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.sec .tumi p{
+    padding-right: 50px;
+}
+
+
+
+
+
